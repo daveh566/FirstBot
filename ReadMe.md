@@ -1,15 +1,10 @@
-# Telegram Bot
-Simple base used to make a Telegram Bot in [telethon](https://github.com/LonamiWebs/Telethon).
-   
-Join [✘ 𝘽𝙤𝙩𝙯 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 ✘](https://t.me/BeastX_Bots)!
-    
+# Donations
+AI ChaTboT
+## Deploying
+Requirements
+• Enter your ```API_ID```,```API_HASH``` And ```TOKEN```. R
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/daveh566/donations"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-   
-# Deploying
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-# Credits
-- [😈Me](https://t.me/Godmrunal)
 
 
 
