@@ -22,17 +22,17 @@ logging.info("Starting bot...")
 @bot.on(events.NewMessage(incoming=True, pattern="^/start"))
 async def start_(event):
     await event.reply(
-        "Hi {}!\nI am a simple bot. \n\n**Usage:** This bot will help to start first bot in python!".format(
+        "Hi {}!\nI am A Intimacyfolksmovies Donation Bot. \n\n**Donation:** Thanks for Generosity and your kind Heart. For my masters to keep on updating Movies and Series they need resources. They take their time to download the movies and Series to keep you entertained. Thanks again to hear you wanna donate. Donate by clicking on the button below!".format(
             (await bot.get_entity(event.sender_id)).first_name
         ),
         buttons=[
             [
-                Button.url("Repo", url="https://github.com/msy1717/startBot"),
+                Button.url("❤️ Requests Group ❤️", url="https://t.me/intimacyfolksmoviesrequests"),
                 Button.url(
-                    "Developer", url="https://t.me/Godmrunal"
+                    "❤️ Movies Channel ❤️", url="https://t.me/Intimacyfolksmovies"
                 ),
             ],
-            [Button.url("Channel", url="https://t.me/BeastX_Bots")],
+            [Button.url("❤️ Donate ❤️", url="https://t.me/BeastX_Bots")],
         ],
     )
 
