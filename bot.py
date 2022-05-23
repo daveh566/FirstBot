@@ -32,7 +32,7 @@ async def start_(event):
                     "❤️ Movies Channel ❤️", url="https://t.me/Intimacyfolksmovies"
                 ),
             ],
-            [Button.url("❤️ Donate ❤️", url="https://t.me/BeastX_Bots")],
+            [Button.url("❤️ Donate ❤️", url="https://telegra.ph/Intimacyfolksmovies-05-23")],
         ],
     )
 
